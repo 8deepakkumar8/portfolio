@@ -168,7 +168,7 @@ main{
 #home{
     height: 100vh;
     width: 95%;
-    background-image: url(./img/galaxi-png.png);
+    background-image: url(./img/galaxi-png.webp);
     background-size: cover;
     background-attachment: fixed;
     display: flex;
